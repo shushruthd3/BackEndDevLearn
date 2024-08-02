@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello world!");
 
         System.out.println("First git push to the code repo");
-        System.out.println("update and pull git try again");
+  System.out.println("Suley maga sanotahsaaa");
 
 
     }
